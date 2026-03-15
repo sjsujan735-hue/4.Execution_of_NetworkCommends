@@ -80,12 +80,38 @@ s.close()
 ## SERVER:
 
 
+## CLIENT:
 
 
 
+tracert
 
-
-
+ipconfig
+nslookup
+netstat
 
 ## Result
 Thus Execution of Network commands Performed 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
