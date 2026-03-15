@@ -29,7 +29,6 @@ This commands includes
 ## Program::
 ## SERVER:
 ```
-
 import socket
 from pythonping import ping
 
@@ -55,7 +54,6 @@ c.close()
 ```
 ## CLIENT:
 ```
-
 import socket
 
 s = socket.socket()
@@ -71,47 +69,13 @@ while True:
 s.close()
 ```
 ## Output
-
-
-
-
-
-
 ## SERVER:
 
-
 ## CLIENT:
-
-
-
 tracert
-
 ipconfig
 nslookup
 netstat
 
 ## Result
 Thus Execution of Network commands Performed 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
