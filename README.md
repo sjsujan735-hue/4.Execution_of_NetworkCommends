@@ -72,10 +72,19 @@ s.close()
 ## SERVER:
 
 ## CLIENT:
+
 tracert
+<img width="1089" height="415" alt="Screenshot 2026-03-15 112340" src="https://github.com/user-attachments/assets/a3e66078-5cdd-4061-b604-5ef61520829b" />
+
 ipconfig
+<img width="1044" height="716" alt="Screenshot 2026-03-15 112359" src="https://github.com/user-attachments/assets/ddf9e6d6-1b1d-40fc-8108-7f2c955a87c1" />
+
 nslookup
+<img width="478" height="648" alt="Screenshot 2026-03-15 112411" src="https://github.com/user-attachments/assets/acc089be-5cae-46be-9463-24faea9463a8" />
+
 netstat
+<img width="914" height="927" alt="Screenshot 2026-03-15 112442" src="https://github.com/user-attachments/assets/2e4f907d-77e0-435d-aff2-2088a76c59c9" />
+
 
 ## Result
 Thus Execution of Network commands Performed 
