@@ -70,8 +70,14 @@ s.close()
 ```
 ## Output
 ## SERVER:
+<img width="1204" height="233" alt="image" src="https://github.com/user-attachments/assets/45972d25-c766-4914-9ac6-f64693700520" />
+
+
 
 ## CLIENT:
+
+<img width="1217" height="271" alt="image" src="https://github.com/user-attachments/assets/544f1a61-d927-4569-9b4b-4fc5dedf12cc" />
+
 
 tracert
 <img width="1089" height="415" alt="Screenshot 2026-03-15 112340" src="https://github.com/user-attachments/assets/a3e66078-5cdd-4061-b604-5ef61520829b" />
